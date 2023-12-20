@@ -13,35 +13,35 @@ Welcome to my data science portfolio! This repository contains a sampling of the
    - Latest commit: [View Details](Covid-19%20and%20the%20Real%20Estate%20Market/)
 
 3. **Diabetes and Hypertension**
-   - [Link to Project Folder](Diabetes%20and%20Hypertension/)
+   - [Does Hypertension Cause Diabetes](Diabetes%20and%20Hypertension/)
    - Latest commit: [View Details](Diabetes%20and%20Hypertension/)
 
 4. **Female Nobel Laureates**
-   - [Link to Project Folder](Female%20Nobel%20Laureates/)
+   - [Lifespans of Female Nobel Laureates](Female%20Nobel%20Laureates/)
    - Latest commit: [View Details](Female%20Nobel%20Laureates/)
 
 5. **Google Trends & America's Team**
-   - [Link to Project Folder](Google%20Trends%20%26%20America's%20Team/)
+   - [Are The Cowboys Still "America's Team"](Google%20Trends%20%26%20America's%20Team/)
    - Latest commit: [View Details](Google%20Trends%20%26%20America's%20Team/)
 
 6. **Machine Learning for Heart Failure**
-   - [Link to Project Folder](Machine%20Learning%20for%20Heart%20Failure/)
+   - [Heart Failure Mortality](Machine%20Learning%20for%20Heart%20Failure/)
    - Latest commit: [View Details](Machine%20Learning%20for%20Heart%20Failure/)
 
 7. **Misleading Visualizations**
-   - [Link to Project Folder](Misleading%20Visualizations/)
+   - [Let The Visuals Tell The Story](Misleading%20Visualizations/)
    - Latest commit: [View Details](Misleading%20Visualizations/)
 
 8. **Predicting Term Deposits in R**
-   - [Link to Project Folder](Predicting%20Term%20Deposits%20in%20R/)
+   - [Term Deposit Subscriptions](Predicting%20Term%20Deposits%20in%20R/)
    - Latest commit: [View Details](Predicting%20Term%20Deposits%20in%20R/)
 
 9. **Time-Series Forecasting on Coke**
-   - [Link to Project Folder](Time-Series%20Forecasting%20on%20Coke/)
+   - [Prdict KO Prices](Time-Series%20Forecasting%20on%20Coke/)
    - Latest commit: [View Details](Time-Series%20Forecasting%20on%20Coke/)
 
 10. **Wholesale Consumers in Python**
-    - [Link to Project Folder](Wholesale%20Consumers%20in%20Python/)
+    - [Market Basket Analysis](Wholesale%20Consumers%20in%20Python/)
     - Latest commit: [View Details](Wholesale%20Consumers%20in%20Python/)
 
 ## About Me
@@ -52,4 +52,3 @@ Feel free to reach out if you have any questions or feedback!
 
 ---
 
-**Note:** This README is a template. Please replace the placeholder information with details about your own projects.
