@@ -46,7 +46,7 @@ Welcome to my data science portfolio! This repository contains various data scie
 
 ## About Me
 
-I am passionate about data science and its applications. Connect with me on [LinkedIn](https://www.linkedin.com/in/mosheburnstein/) for collaboration and discussions.
+I am passionate about data science and its applications. Connect with me on [LinkedIn](https://www.linkedin.com/in/moshe-burnstein/) for collaboration and discussions.
 
 Feel free to reach out if you have any questions or feedback!
 
