@@ -31,11 +31,7 @@ Welcome to my data science portfolio! This repository contains various data scie
    - [What drives Term Deposit Subscriptions?](Predicting%20Term%20Deposits%20in%20R/)
    - Latest commit: [View Details](Predicting%20Term%20Deposits%20in%20R/)
 
-2. **Diabetes and Hypertension**
-   - [Does High Blood Pressure Cause Diabetes?](Diabetes%20and%20Hypertension/)
-   - Latest commit: [View Details](Diabetes%20and%20Hypertension/)
-
-3. **Machine Learning for Heart Failure**
+2. **Machine Learning for Heart Failure**
    - [Heart Failure Mortality](Machine%20Learning%20for%20Heart%20Failure/)
    - Latest commit: [View Details](Machine%20Learning%20for%20Heart%20Failure/)
 
