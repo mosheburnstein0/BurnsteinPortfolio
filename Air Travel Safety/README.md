@@ -5,11 +5,11 @@ Welcome to the Air Travel Safety repository! This repository contains important 
 ## Files
 
 1. [Air Safety Executive Summary Writeup.pdf](Air%20Safety%20Executive%20Summary%20Writeup.pdf)
-   - Description: Executive summary writeup on air safety.
+   - Description: Executive summary writeup on air safety, providing a detailed overview of safety measures and recommendations. This document serves as the basis for the corresponding PowerPoint presentation.
    - Uploaded: Last week
 
 2. [Air Safety Executive Summary PowerPoint.pdf](Air%20Safety%20Executive%20SummaryPowerPoint.pdf)
-   - Description: PowerPoint presentation summarizing air safety executive summary.
+   - Description: PowerPoint presentation summarizing air safety executive summary. This presentation includes visuals specifically chosen for presentation to the board of an airline, offering a visually compelling representation of key safety considerations and recommendations. The decision to use different visuals aims to enhance the communication of critical information to the board members.
    - Uploaded: Last week
 
 3. [Air Travel Safety Blog Writeup.pdf](Air%20Travel%20Safety%20Blog%20Writeup.pdf)
