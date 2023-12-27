@@ -25,12 +25,13 @@ Welcome to the Air Travel Safety repository! This repository contains important 
    - Uploaded: Last week
 
 6. [Internal Dashboard Moshe Burnstein.pdf](Internal%20Dashboard%20Moshe%20Burnstein.pdf)
-   - Description: Internal dashboard related to air travel, possibly authored by Moshe Burnstein.
+   - Description: Writeup by Moshe Burnstein explaining the rationale for the PowerBI internal dashboard. This document provides insights into the considerations and decisions made during the creation of the dashboard. Additionally, it describes the conclusions drawn by airline employees at-large based on the dashboard's data.
    - Uploaded: Last week
 
 7. [Internal Dashboard PowerBI Air Travel Safety.pdf](Internal%20Dashboard%20PowerBI%20Air%20Travel%20Safety.pdf)
-   - Description: Internal dashboard related to air travel safety using PowerBI.
+   - Description: Internal dashboard related to air travel safety created by Moshe Burnstein using PowerBI. The dashboard visualizes key safety metrics and trends, offering valuable insights to airline stakeholders.
    - Uploaded: Last week
+
 
 8. [README.md](README.md)
    - Description: This README file lists and describes the files in this project.
