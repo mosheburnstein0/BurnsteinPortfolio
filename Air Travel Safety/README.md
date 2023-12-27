@@ -33,7 +33,7 @@ Welcome to the Air Travel Safety repository! This repository contains important 
    - Uploaded: Last week
 
 8. [README.md](README.md)
-   - Description: This README file.
+   - Description: This README file lists and describes the files in this project.
    - Created: 2 minutes ago
 
 ## Usage
