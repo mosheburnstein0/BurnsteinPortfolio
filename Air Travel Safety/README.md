@@ -43,7 +43,7 @@ Feel free to explore and use the files in this repository for educational or inf
 
 ## Contributors
 
-- [Moshe Burnstein]
+- Moshe Burnstein
   
 
 ## License
