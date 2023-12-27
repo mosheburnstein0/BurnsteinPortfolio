@@ -13,7 +13,7 @@ This repository contains an in-depth analysis of a scientific data science paper
 
 ### Contents
 
-[Paper Summary](#/Predictive%20Modeling%20Case%20Study.pdf)
+[Paper Summary](#Predictive%20Modeling%20Case%20Study.pdf)
 
 
 ---
