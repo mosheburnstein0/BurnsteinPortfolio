@@ -1,4 +1,4 @@
-https://github.com/mosheburnstein0/BurnsteinPortfolio/blob/main/Covid-19%20and%20the%20Real%20Estate%20Market/Predictive%20Modeling%20Case%20Study.pdf
+
 # Scientific Data Science Paper Analysis
 
 ## Title: *Exploring the Impact of COVID-19 and Catastrophes on Apartment Rental Values: A Data Science Perspective*
@@ -13,7 +13,7 @@ This repository contains an in-depth analysis of a scientific data science paper
 
 ### Contents
 
-[Paper Summary](#/main/Covid-19%20and%20the%20Real%20Estate%20Market/Predictive%20Modeling%20Case%20Study.pdf)
+[Paper Summary](#/Predictive%20Modeling%20Case%20Study.pdf)
 
 
 ---
