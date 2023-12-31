@@ -18,7 +18,14 @@
 
 The analysis explores three different data sources to investigate the lifespans of female Nobel laureates. The three files include a flat file, a webpage, and an API. Moshe Burnstein authored the project and merged the three data sources. The data was also loaded into an SQLite database.
 
+### Visualizations and Correlations
+
+I created visualizations from the merged DataFrames, providing insights into the data. The project delves into the paucity of female laureates compared to male laureates. Additionally, I explore whether any correlations exist between the lifespan of laureates and the discipline for which they won the award.
+
 ---
+
+
+
 
 
 
