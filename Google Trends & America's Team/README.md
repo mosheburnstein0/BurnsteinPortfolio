@@ -21,20 +21,20 @@ The project begins by presenting the history and background that led to the Dall
 
 ## Files
 
-- [**Dallas_Cowboys_Americas_Team.pptx**](./Dallas_Cowboys_Americas_Team.pptx): PowerPoint file containing visual representations and analysis.
-- [**Dallas_Cowboys_Americas_Team.pdf**](./Dallas_Cowboys_Americas_Team.pdf): PDF version of the PowerPoint file for easy access.
+- [**Dallas_Cowboys_Americas_Team.pptx**](https://github.com/mosheburnstein0/BurnsteinPortfolio/blob/main/Google%20Trends%20%26%20America's%20Team/America's%20Team.pptx): PowerPoint file containing visual representations and analysis.
+- [**Dallas_Cowboys_Americas_Team.pdf**](https://github.com/mosheburnstein0/BurnsteinPortfolio/blob/main/Google%20Trends%20%26%20America's%20Team/Are%20the%20Dallas%20Cowboys%20still%20America's%20Team.pdf): PDF version of the PowerPoint file for easy access.
 
 ## Author
 
 - **Moshe Burnstein**
-  - LinkedIn: [Moshe Burnstein](#LinkedIn-Profile)
+  - LinkedIn: [Moshe Burnstein](https://www.linkedin.com/in/moshe-burnstein/)
 
 ## Usage
 
-To access the findings and visualizations, open the PowerPoint file ([**Dallas_Cowboys_Americas_Team.pptx**](./Dallas_Cowboys_Americas_Team.pptx)) or its PDF version ([**Dallas_Cowboys_Americas_Team.pdf**](./Dallas_Cowboys_Americas_Team.pdf)) in your preferred viewer.
+To access the findings and visualizations, open the PowerPoint file ([**Dallas_Cowboys_Americas_Team.pptx**](https://github.com/mosheburnstein0/BurnsteinPortfolio/blob/main/Google%20Trends%20%26%20America's%20Team/America's%20Team.pptx)) or its PDF version ([**Dallas_Cowboys_Americas_Team.pdf**](https://github.com/mosheburnstein0/BurnsteinPortfolio/blob/main/Google%20Trends%20%26%20America's%20Team/Are%20the%20Dallas%20Cowboys%20still%20America's%20Team.pdf)) in your preferred viewer.
 
 ## Conclusion
 
 This study provides a nuanced exploration of whether the Dallas Cowboys continue to hold the title of "America's Team." The combination of historical context, present-day visualizations, and Google Trends analysis offers a comprehensive perspective on the enduring legacy of the Cowboys in American sports culture.
 
-Feel free to reach out to [Moshe Burnstein](#LinkedIn-Profile) for any inquiries or further discussions on the findings presented in this project.
+Feel free to reach out to [Moshe Burnstein](https://www.linkedin.com/in/moshe-burnstein/) for any inquiries or further discussions on the findings presented in this project.
