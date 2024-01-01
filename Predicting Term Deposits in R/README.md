@@ -38,10 +38,5 @@ The dataset is provided as a .csv file with ';' separators. It was loaded succes
 | Ensemble Bagging | 91.45% | 54.41 | 95.83%      | 56.13%      | 75.98%            |
 | XGBoost    | 90.84%   | 39.32 | 92.10%      | 67.96%      | 80.03%            |
 
-## Project Files
-1. [PowerPoint Presentation](https://github.com/mosheburnstein0/BurnsteinPortfolio/blob/main/Predicting%20Term%20Deposits%20in%20R/PowerPoint%20Term%20Deposits.pptx)
-2. [Predicting Term Deposits PDF](https://github.com/mosheburnstein0/BurnsteinPortfolio/blob/main/Predicting%20Term%20Deposits%20in%20R/Predicting%20Term%20Deposits.pdf)
-3. [Code (.Rmd)](https://github.com/mosheburnstein0/BurnsteinPortfolio/blob/main/Predicting%20Term%20Deposits%20in%20R/Term%20Deposit%20Code.Rmd)
-4. [Audio/Visual Presentation](https://github.com/mosheburnstein0/BurnsteinPortfolio/blob/main/Predicting%20Term%20Deposits%20in%20R/Term%20Deposit%20Presentation.mp4)
-5. [PDF of .Rmd File](https://github.com/mosheburnstein0/BurnsteinPortfolio/blob/main/Predicting%20Term%20Deposits%20in%20R/Term%20Deposits%20EDA%20in%20R.pdf)
-
+## Contact Information
+- **LinkedIn:** [Moshe Burnstein](https://www.linkedin.com/in/moshe-burnstein/)
