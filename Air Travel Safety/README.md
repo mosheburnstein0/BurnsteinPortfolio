@@ -40,6 +40,4 @@ Feel free to explore and use the files in this repository for educational or inf
 
 - Moshe Burnstein
 
-## License
 
-This repository is licensed under [License Name]. Please refer to the [LICENSE](LICENSE) file for more details.
