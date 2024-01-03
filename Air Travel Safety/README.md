@@ -1,6 +1,6 @@
-# Air Travel Safety Repository
+# Air Travel Safety Analysis
 
-Welcome to the Air Travel Safety repository! This repository contains important documents and files related to air safety, executive summaries, blogs, multimedia, and internal dashboards.
+Welcome to the Air Travel Safety folder! This folder contains important information related to air safety, executive summaries, blogs, multimedia, and internal dashboards.
 
 ## Files
 
